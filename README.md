@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Pranitee-Sonavane/Solutions/tree/master/0007-reverse-integer) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Pranitee-Sonavane/Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pranitee-Sonavane/Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Greedy
 |  |
