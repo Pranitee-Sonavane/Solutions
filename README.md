@@ -36,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Pranitee-Sonavane/Solutions/tree/master/1480-running-sum-of-1d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Pranitee-Sonavane/Solutions/tree/master/1768-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Pranitee-Sonavane/Solutions/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
