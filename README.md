@@ -55,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Pranitee-Sonavane/Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Pranitee-Sonavane/Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Pranitee-Sonavane/Solutions/tree/master/1768-merge-strings-alternately) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Pranitee-Sonavane/Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
